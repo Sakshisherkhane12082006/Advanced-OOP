@@ -1,0 +1,1 @@
+new FileReader("ExperimentNo7/sample.txt")
